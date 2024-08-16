@@ -1,0 +1,4 @@
+antecedents,consequents,antecedent support,consequent support,support,confidence,lift,leverage,conviction,zhangs_metric
+frozenset({'image_type_TBP tile: close-up'}),frozenset({'tbp_tile_type_3D: XP'}),1.0,0.712870176208488,0.712870176208488,0.712870176208488,1.0,0.0,1.0,0.0
+frozenset({'tbp_tile_type_3D: XP'}),frozenset({'image_type_TBP tile: close-up'}),0.712870176208488,1.0,0.712870176208488,1.0,1.0,0.0,inf,0.0
+frozenset({'tbp_tile_type_3D: white'}),frozenset({'image_type_TBP tile: close-up'}),0.287129823791512,1.0,0.287129823791512,1.0,1.0,0.0,inf,0.0

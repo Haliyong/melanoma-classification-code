@@ -1,0 +1,2 @@
+antecedents,consequents,antecedent support,consequent support,support,confidence,lift,leverage,conviction,zhangs_metric
+frozenset({'anatom_site_general_anterior torso'}),frozenset({'sex_male'}),0.21884560625743343,0.6621120583255831,0.15324677915219456,0.7002506551213399,1.05760142307664,0.008346464337575216,1.127234962969462,0.06972271764653477
